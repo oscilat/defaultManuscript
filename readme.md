@@ -1,6 +1,6 @@
 # Manuscript (UPC version)
 
-A clean, simple theme with a boxed layout that mimics a paper document.
+A clean, simple theme with a boxed layout that mimics a paper document. Version for UPC Journals Portal.
 
 ## Installation
 
