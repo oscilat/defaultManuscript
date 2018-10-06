@@ -1,4 +1,4 @@
-# Manuscript (Default child theme)
+# Manuscript (UPC version)
 
 A clean, simple theme with a boxed layout that mimics a paper document.
 
